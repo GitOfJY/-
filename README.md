@@ -1,2 +1,2 @@
-오라클로 배우는 데이터베이스 개론과 실습
-# Oracle_book_review
+### Book_Review
+### 공부했던 책 기록입니다.
